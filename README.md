@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Lead IT Expert with 8+ years of experience, always trying to improve myself, very communicable and responsible. 
+Worked in the team and directly with clients, English level B2+.
+Love an active lifestyle, such as skiing, training in the gym, and playing football.
+
+
 <!--
 **simirka/simirka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
