@@ -1,15 +1,15 @@
-### Добрий день Everybody 👋
+### Hello 👋
 ---
 
 
-### Lead IT Expert with :eight:+ years of experience in: 
+### Lead IT Expert with :one::zero:+ years of experience in: 
 :heavy_check_mark: Vue3, Nuxt3, Vite<br>
 :heavy_check_mark: Laravel, PHP, Node<br>
 :heavy_check_mark: MySQL, PostgreSQL, MongoDB<br>
 :heavy_check_mark: Docker, DigitalOcean
 
 ### Focused on:
-:brain: Self improvement<br>
+:brain: Self-improvement<br>
 :dart: New technologies<br>
 :rocket: Fast website performance<br>
 :muscle: An active lifestyle<br>
